@@ -7,5 +7,5 @@ print(d1)
 d2 = {"name": "John", "age": 30, "city": "New York"}
 print(d2)
 
-d2["age"]
+d2["age"]  
 print(d2)
