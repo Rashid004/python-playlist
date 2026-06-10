@@ -37,3 +37,5 @@ for i in range(n):
     element = input("Enter element: ")
     arr.append(element)
 print("The array is: ", arr)
+
+
